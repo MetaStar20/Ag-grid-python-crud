@@ -4,7 +4,7 @@ In the project directory, first you can run DataAPI directory:
 
 ### `python -m uvicorn main:app --reload`
 
-In the project directory, Once successfully run the API server, then you go to Grid directory and run:
+In the project directory, Once successfully run the API server, then you go to Grid directory and run the frontend
 
 ### `npm start`
 
