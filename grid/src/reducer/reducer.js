@@ -40,20 +40,20 @@ const reducer = (state = initialState, action, gquery) => {
             })
         }
         case Grid_Add: {
-            debugger
+            
             return ({
                 data: { result: action.payload, count: action.tCount }, isUpdated: true,
             })
         }
         case Grid_Editing: {
-            debugger
+            
            
             return ({
                 data: { result: action.payload, count: action.tCount }, isUpdated: true,
             })
         }
         case Grid_Delete: {
-            debugger
+            
             return ({
                 data: { result: action.payload, count: action.tCount }, isUpdated: true,
             })

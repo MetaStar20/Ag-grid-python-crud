@@ -59,7 +59,6 @@ class orderDataService {
   }
 
   remove(id) {
-    debugger
     return http.delete(`/book/${id}`);
   }
 }
