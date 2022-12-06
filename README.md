@@ -1,6 +1,7 @@
 ## Available Scripts
 
 In the project directory, first you can run DataAPI directory:
+By using fastAPI and Ag-grid, users can create, update, read, delete about 1M data from MongoDB and MySQL.
 
 ### `source ./venv/Scripts/activate`
 ### `python -m uvicorn main:app --reload`
